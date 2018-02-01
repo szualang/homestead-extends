@@ -2,7 +2,7 @@
 some extends for homestead 
 
 
-### after.sh [link](https://github.com/szualang/homestead-extends/blob/master/after.sh)
+###  [after.sh](https://github.com/szualang/homestead-extends/blob/master/after.sh)
 - 配置Composer使用中国镜像
   change composer registry to https://packagist.phpcomposer.com
 - 配置npm使用淘宝镜像
