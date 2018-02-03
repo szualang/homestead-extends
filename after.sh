@@ -7,6 +7,9 @@
 # 配置Composer使用中国镜像
 composer config -g repo.packagist composer https://packagist.phpcomposer.com
 
+# 使用 prestissimo 加速你的包安装
+composer global require hirak/prestissimo
+
 # 配置npm使用淘宝镜像，使用淘宝镜像有两种方式
 
 # 方式一：只修改npm镜像地址为淘宝镜像地址
